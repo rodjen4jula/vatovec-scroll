@@ -1,0 +1,47 @@
+.vatovecScrollToTop{
+	width:50px; 
+	height:67px;	
+	cursor: pointer;
+	position:fixed;
+	bottom:55px;
+	right:20px;
+    opacity: 0;
+    padding: 0;
+    background-color: transparent;
+/* 	
+	background: url('../images/arrow_up.png') no-repeat 0px 0px;
+    background-size: contain; */
+}
+
+.vatovecScrollToTop img {
+    width:50px; 
+	height:67px;
+}
+
+.vatovecScrollToBottom{
+    width:50px; 
+	height:67px;	
+	cursor: pointer;
+	position:fixed;
+	top:75px;
+	right:20px;
+    opacity: 0;
+    padding: 0;
+    background-color: transparent;
+}
+.vatovecScrollToBottom img {
+    width:50px; 
+	height:67px;
+}
+.scroll-image-container  {
+   margin-bottom: 10px;
+}
+.scroll-image-container img {
+    width:50px !important; 
+	height:67px !important;
+}
+
+.vatovec-scroll-images-setup-container{
+    display: flex;
+    flex-direction: row;
+}
