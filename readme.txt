@@ -13,7 +13,7 @@ A WordPress plugin that adds a scroll to top and bottom which allows the visitor
   
 == Description ==
   
-This plugin adds a scroll to top and bottom which allows the visitors to easily scroll back to the top or the bottom of the page by cliking on scroll image. 
+This plugin adds a custom Back to Top and Back to Bottom buttons to your WordPress website that allows visitors to scroll back to the top of your page with one click.
 
 ### Features
 * Displays a button when user scrolls down the page.
@@ -28,7 +28,7 @@ This plugin adds a scroll to top and bottom which allows the visitors to easily 
   
 = How do I use this plugin? =
   
-After activating the plugin you can click on Settings option or navigate to Vatovec Scroll page in admin menu. There you can select if you want to have / activate scroll to top or scroll to bottom or both. After activating one or both options you will have another option, to show scroll on admin page.
+After activating the plugin you can click on Settings link or navigate to Vatovec Scroll page in admin menu. There you can select if you want to have / activate scroll to top or scroll to bottom or both. After activating one or both options you will have another option, to show scroll on admin page.
   
 = How to uninstall the plugin? =
   
